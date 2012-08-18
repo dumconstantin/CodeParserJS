@@ -1,0 +1,8 @@
+Flow based unit testing.
+
+Testare unitara pentru fiecare functie unde se trimite un array cu ce trebuie sa intre si ce trebuie sa iasa in si din functie
+Reveal('foo').test(['bar', 23], [0, 15]);
+
+Unde functia foo primeste pe rand ca prim argument 'bar' si 0 si trebuie sa primeasca 23 si 15 ca valoare de return.
+
+In felul asta se poate avea un code coverage de 100% si in acelasi timp avea o siguranta deplina pe fiecare algoritm si functie implementata.

@@ -1,0 +1,1 @@
+parser('var foo = 23; function bar() { var ceva = 5; aaa(b); test.foo("a"); function ceva() { var m = 23; } var c = \'23\'; }');
